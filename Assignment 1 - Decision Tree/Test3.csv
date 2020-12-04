@@ -1,0 +1,11 @@
+toothed,breathes,legs,species
+TRUE,TRUE,TRUE,mammal
+TRUE,TRUE,TRUE,mammal
+TRUE,TRUE,FALSE,reptile
+FALSE,TRUE,TRUE,mammal
+TRUE,TRUE,TRUE,mammal
+TRUE,TRUE,TRUE,mammal
+TRUE,FALSE,FALSE,reptile
+TRUE,TRUE,FALSE,reptile
+TRUE,TRUE,TRUE,mammal
+FALSE,TRUE,TRUE,reptile
